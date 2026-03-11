@@ -2,7 +2,7 @@
 
 MCP project to connect Claude with Spotify. Built on top of [spotipy-dev's API](https://github.com/spotipy-dev/spotipy/tree/2.24.0).
 
-[Notice Feb 2026]: I am not really planning on updating this repo or accepting PRs, due to the ease of creating MCPs with AI agents at this point.
+**[Notice March 2026]: Inactive project. Most PRs will not be merged.**
 
 ## Features
 
